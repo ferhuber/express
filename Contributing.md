@@ -1,4 +1,4 @@
-# Node.js Community Contributing Guide 1.0
+ # Node.js Community Contributing Guide 1.0
 
 This document describes a very simple process suitable for most projects
 in the Node.js ecosystem. Projects are encouraged to adopt this whether they
